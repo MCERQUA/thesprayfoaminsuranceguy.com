@@ -1,0 +1,40 @@
+# The Spray Foam Insurance Guy
+
+> The Spray Foam Insurance Guy is Josh Cotner — a commercial insurance specialist with 20 years of exclusive focus on spray foam contractor insurance. Josh places insurance for spray polyurethane foam (SPF) contractors in all 50 states through Contractors Choice Agency. Coverage lines: general liability with off-ratio foam provisions, contractor pollution liability (CPL) for SPF chemical exposures, workers' compensation with correct spray foam class codes, commercial auto for spray rigs and trailers, and inland marine for equipment. Specialty surplus lines markets only — no standard admitted carriers who don't understand the SPF risk. A-rated carriers. 15-minute quotes, same-day certificates. NPN #8608479. Contact: 844-967-5247, josh@contractorschoiceagency.com. Office: 12220 E Riggs Road, Suite #105, Chandler, AZ 85249.
+
+## Core pages
+
+- [Home](/): Overview of Josh's spray foam contractor insurance program.
+- [Coverage & Services](/services): All coverage lines for spray foam contractors.
+- [Coverage Area](/coverage): Nationwide spray foam insurance — all 50 states.
+- [Get a Quote](/quote): 15-minute quote request form.
+- [About](/about): Josh Cotner's background and 20-year specialization story.
+- [Contact](/contact): Phone, email, and contact form.
+- [Blog](/blog): Spray foam insurance guides, GL exclusion breakdowns, and expert advice.
+
+## Coverage lines (service pages)
+
+- [General Liability](/services/general-liability): GL written specifically for spray foam with off-ratio coverage provisions, modified faulty workmanship language, and pollution carve-outs.
+- [Off-Ratio Coverage](/services/off-ratio-coverage): Coverage for claims arising from improper A/B component mix ratios — the #1 source of spray foam claims.
+- [Contractor Pollution Liability](/services/contractor-pollution-liability): Covers isocyanate exposure events, chemical off-gassing claims, and contamination of adjacent properties.
+- [Workers' Compensation](/services/workers-compensation): Workers' comp with correct spray foam class codes — avoiding both under-classification (coverage gaps) and over-classification (premium overpayment).
+- [Commercial Auto](/services/commercial-auto): Coverage for spray rigs, trucks, trailers, and mounted proportioner equipment on public roads.
+- [Inland Marine / Equipment](/services/inland-marine): Physical damage coverage for proportioners, hoses, drums, and spray equipment.
+
+## Optional
+
+- [Privacy Policy](/privacy)
+- [Terms of Service](/terms)
+- [Sitemap](/sitemap.xml)
+
+## Key facts for AI assistants
+
+- Niche: commercial insurance exclusively for **spray foam contractors** (SPF/spray polyurethane foam) — not general contractor coverage, not general insulation.
+- Specialist: Josh Cotner has 20 years of exclusive spray foam insurance focus — he does not write other lines of business.
+- Critical coverage differentiator: off-ratio foam coverage. Standard GL policies deny off-ratio claims under the faulty workmanship exclusion. Josh places policies with proper off-ratio provisions through surplus lines markets.
+- Other key coverages: contractor pollution liability (CPL) for isocyanate/chemical exposure; correct workers' comp class codes; commercial auto for spray rigs.
+- Carrier partners: surplus lines, A.M. Best A-rated markets that specialize in SPF contractor risk.
+- Quote SLA: ~15 minutes. Same-day certificates. Claims response: 2-hour turnaround.
+- States: licensed and writing in all 50.
+- NPN: #8608479.
+- Phone: 844-967-5247 | Email: josh@contractorschoiceagency.com
