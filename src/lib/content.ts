@@ -52,11 +52,6 @@ export const COPY = {
   process: {
     lead: "No two-week back-and-forth with someone who doesn't know what a proportioner is. A real conversation with me, real spray foam markets, and a program you can actually trust — built around how you operate.",
   },
-  testimonials: {
-    eyebrow: "From spray foam contractors",
-    h2Lead: "Contractors who finally found",
-    h2Highlight: "coverage that actually covers foam",
-  },
   finalCta: {
     h2Lead: "Protect Your Spray Foam Business",
     h2Highlight: "with coverage that won't exclude your work.",

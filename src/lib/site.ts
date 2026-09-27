@@ -159,8 +159,3 @@ export const STATS = [
   { value: 50, suffix: "", label: "States licensed & writing", prefix: "" },
 ] as const;
 
-export const TESTIMONIALS = [
-  { quote: "Josh got me covered same day. I'd been declined twice by other agents who didn't understand spray foam. He knew exactly what markets to go to and had my GL and off-ratio coverage bound before lunch. Never had a problem since.", name: "Marcus T.", role: "Owner / Operator", location: "Texas" },
-  { quote: "I called Josh after a completed-operations claim hit my old policy and the carrier denied it — said off-ratio foam was excluded. Josh moved my program to a market that actually covers what we do. Now I don't worry about that exclusion killing a claim.", name: "Derek W.", role: "Spray Foam Contractor", location: "Florida" },
-  { quote: "Most agents don't know what a proportioner is, let alone what it costs to replace one. Josh valued my Graco E-30 and hose set at real replacement cost. When the rig got stolen off the trailer, the claim paid in full — no depreciation fight.", name: "Steve L.", role: "SPF Contractor", location: "Ohio" },
-] as const;
