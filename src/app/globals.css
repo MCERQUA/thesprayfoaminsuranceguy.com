@@ -1,5 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;700;800;900&family=Inter:wght@400;500;600&display=swap');
-
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -43,12 +41,12 @@
   body {
     background-color: var(--bg-cream);
     color: var(--cocoa);
-    font-family: 'Inter', var(--font-body), system-ui, -apple-system, sans-serif;
+    font-family: var(--font-body), system-ui, -apple-system, sans-serif;
     font-feature-settings: "cv02", "cv03", "cv04", "cv11";
   }
 
   h1, h2, h3, h4, h5, h6 {
-    font-family: 'Plus Jakarta Sans', var(--font-heading), system-ui, sans-serif;
+    font-family: var(--font-heading), system-ui, sans-serif;
     color: var(--espresso);
     letter-spacing: -0.015em;
     font-weight: 700;

@@ -68,11 +68,11 @@ const config: Config = {
         adobeDark: "#c8c8c8",
       },
       fontFamily: {
-        headline: ["'Plus Jakarta Sans'", 'system-ui', 'sans-serif'],
-        body: ["'Inter'", 'system-ui', 'sans-serif'],
-        label: ["'Plus Jakarta Sans'", 'system-ui', 'sans-serif'],
+        headline: ['var(--font-heading)', 'system-ui', 'sans-serif'],
+        body: ['var(--font-body)', 'system-ui', 'sans-serif'],
+        label: ['var(--font-heading)', 'system-ui', 'sans-serif'],
         // legacy aliases kept for compatibility
-        heading: ["'Plus Jakarta Sans'", 'system-ui', 'sans-serif'],
+        heading: ['var(--font-heading)', 'system-ui', 'sans-serif'],
       },
       borderRadius: {
         arch: "2rem 2rem 2rem 2rem",
