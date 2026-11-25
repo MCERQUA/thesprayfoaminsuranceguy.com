@@ -7,6 +7,7 @@ import { Footer } from "@/components/sections/Footer";
 import { FadeIn } from "@/components/animations/FadeIn";
 import { SITE } from "@/lib/site";
 import { US_STATES, QUOTE_SERVICE_TYPES, YEARS_OPTIONS, COPY } from "@/lib/content";
+import { QuoteForm as AcordQuoteForm } from "@/components/quote/QuoteForm";
 import { CheckCircle2, ShieldCheck, ArrowRight, Phone, Clock, Zap, MapPin } from "lucide-react";
 
 const WEBHOOK_URL = `https://josh.jam-bot.com/social-api/api/leads/webhook/netlify?tenant=josh&site=${SITE.domain}`;
@@ -293,6 +294,25 @@ export default function QuotePage() {
 </form>
                   </FadeIn>
                 )}
+
+                <div id="business-application" className="mt-8 rounded-3xl bg-white border border-adobe shadow-card p-7 md:p-9">
+                  <h2 className="font-heading font-extrabold text-espresso text-2xl mb-2">Full spray foam contractor application</h2>
+                  <p className="text-sm text-mocha mb-8">Answer the carrier underwriting questions here and we can quote spray foam contractor coverage without a second round of paperwork.</p>
+                  <AcordQuoteForm
+                    formName="quote"
+                    tradeName="Spray foam"
+                    endpoint="/__forms.html"
+                    options={{ yn: true, feinRequired: false }}
+                    defaults={{ coverageTypes: "General Liability" }}
+                    classes={{
+                      input: "w-full px-4 py-3 rounded-xl border border-adobe bg-cream/50 text-espresso focus:outline-none focus:border-clay focus:ring-2 focus:ring-clay/20 text-sm",
+                      label: "block text-sm font-heading font-semibold text-espresso mb-1.5",
+                      legend: "block text-sm font-heading font-semibold text-espresso mb-1.5",
+                      heading: "font-heading font-bold text-espresso text-xl",
+                      button: "px-8 py-4 bg-clay-gradient text-white font-heading font-bold rounded-full disabled:opacity-40 disabled:cursor-not-allowed",
+                    }}
+                  />
+                </div>
               </div>
             </div>
           </div>
